@@ -6,4 +6,4 @@ This repository serves as a collection of code snippets, examples, and implement
 
 | Topic             | Languages Used | # of Functions |
 |-------------------|----------------|----------------|
-| Numerical Analysis| C++, Python    | 1              |
+| Numerical Analysis| C++, Python    | 2              |
